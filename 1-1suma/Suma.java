@@ -9,5 +9,7 @@ public class Suma{
 		a = Integer.parseInt(JOptionPane.showInputDialog(null,"Ingresa un entero"));
 		b = Integer.parseInt(JOptionPane.showInputDialog(null,"Ingresa un entero"));
 		JOptionPane.showMessageDialog(null,a+" + "+b+" = "+(a+b));
+
+		//hola 
 	}
 }
